@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Assimp</author>
+      <authoring_tool>Assimp Exporter</authoring_tool>
+    </contributor>
+    <created>2017-07-03T19:24:14</created>
+    <modified>2017-07-03T19:24:14</modified>
+    <unit name="meter" meter="1" />
+    <up_axis>Y_UP</up_axis>
+  </asset>
+  <library_geometries>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="RootNode" name="RootNode">
+      <node id="mixamorig:Hips" name="mixamorig:Hips">
+        <matrix>1 0 0 0 0 1 0 100.849 0 0 1 0 0 0 0 1</matrix>
+        <node id="mixamorig:Spine_$AssimpFbx$_Translation" name="mixamorig:Spine_$AssimpFbx$_Translation">
+          <matrix>1 0 0 -0.0001 0 1 0 9.8568 0 0 1 -1.2232 0 0 0 1</matrix>
+          <node id="mixamorig:Spine_$AssimpFbx$_PreRotation" name="mixamorig:Spine_$AssimpFbx$_PreRotation">
+            <matrix>1 -1.55913e-05 -1.9107e-06 0 1.5708e-05 0.992574 0.121639 0 0 -0.121639 0.992574 0 0 0 0 1</matrix>
+            <node id="mixamorig:Spine_$AssimpFbx$_Rotation" name="mixamorig:Spine_$AssimpFbx$_Rotation">
+              <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+              <node id="mixamorig:Spine" name="mixamorig:Spine">
+                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                <node id="mixamorig:Spine1_$AssimpFbx$_Translation" name="mixamorig:Spine1_$AssimpFbx$_Translation">
+                  <matrix>1 0 0 0 0 1 0 11.6538 0 0 1 0 0 0 0 1</matrix>
+                  <node id="mixamorig:Spine1_$AssimpFbx$_Rotation" name="mixamorig:Spine1_$AssimpFbx$_Rotation">
+                    <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                    <node id="mixamorig:Spine1" name="mixamorig:Spine1">
+                      <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                      <node id="mixamorig:Spine2" name="mixamorig:Spine2">
+                        <matrix>1 0 0 0 0 1 0 13.3691 0 0 1 0 0 0 0 1</matrix>
+                        <node id="mixamorig:Neck_$AssimpFbx$_Translation" name="mixamorig:Neck_$AssimpFbx$_Translation">
+                          <matrix>1 0 0 0 0 1 0 14.7254 0 0 1 2.5948 0 0 0 1</matrix>
+                          <node id="mixamorig:Neck_$AssimpFbx$_PreRotation" name="mixamorig:Neck_$AssimpFbx$_PreRotation">
+                            <matrix>1 -3.25329e-06 2.15569e-06 0 3.49066e-06 0.992622 -0.121249 0 -1.74533e-06 0.121249 0.992622 0 0 0 0 1</matrix>
+                            <node id="mixamorig:Neck_$AssimpFbx$_Rotation" name="mixamorig:Neck_$AssimpFbx$_Rotation">
+                              <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                              <node id="mixamorig:Neck" name="mixamorig:Neck">
+                                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                <node id="mixamorig:Head" name="mixamorig:Head">
+                                  <matrix>1 0 0 0 0 1 0 10.2519 0 0 1 3.1318 0 0 0 1</matrix>
+                                  <node id="mixamorig:HeadTop_End" name="mixamorig:HeadTop_End">
+                                    <matrix>1 0 0 0.0002 0 1 0 18.3512 0 0 1 6.6141 0 0 0 1</matrix>
+                                  </node>
+                                  <node id="mixamorig:RightEye" name="mixamorig:RightEye">
+                                    <matrix>1 0 0 -2.9353 0 1 0 7.6221 0 0 1 9.0894 0 0 0 1</matrix>
+                                  </node>
+                                  <node id="mixamorig:LeftEye" name="mixamorig:LeftEye">
+                                    <matrix>1 0 0 2.9388 0 1 0 7.6222 0 0 1 9.0897 0 0 0 1</matrix>
+                                  </node>
+                                </node>
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                        <node id="mixamorig:LeftShoulder_$AssimpFbx$_Translation" name="mixamorig:LeftShoulder_$AssimpFbx$_Translation">
+                          <matrix>1 0 0 6.0852 0 1 0 8.8972 0 0 1 1.7952 0 0 0 1</matrix>
+                          <node id="mixamorig:LeftShoulder_$AssimpFbx$_PreRotation" name="mixamorig:LeftShoulder_$AssimpFbx$_PreRotation">
+                            <matrix>-0.191879 0.979174 -0.0663446 0 0.318534 -0.00180638 -0.94791 0 -0.928288 -0.203017 -0.311553 0 0 0 0 1</matrix>
+                            <node id="mixamorig:LeftShoulder_$AssimpFbx$_Rotation" name="mixamorig:LeftShoulder_$AssimpFbx$_Rotation">
+                              <matrix>0.999999 0.00117706 -0.00121226 0 -0.00117001 0.999983 0.00579866 0 0.00121907 -0.00579723 0.999982 0 0 0 0 1</matrix>
+                              <node id="mixamorig:LeftShoulder" name="mixamorig:LeftShoulder">
+                                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                <node id="mixamorig:LeftArm_$AssimpFbx$_Translation" name="mixamorig:LeftArm_$AssimpFbx$_Translation">
+                                  <matrix>1 0 0 -0 0 1 0 12.8778 0 0 1 0 0 0 0 1</matrix>
+                                  <node id="mixamorig:LeftArm_$AssimpFbx$_PreRotation" name="mixamorig:LeftArm_$AssimpFbx$_PreRotation">
+                                    <matrix>0.988767 -0.149428 -0.00329654 0 0.149465 0.988527 0.0218079 0 0 -0.0220557 0.999757 0 0 0 0 1</matrix>
+                                    <node id="mixamorig:LeftArm_$AssimpFbx$_Rotation" name="mixamorig:LeftArm_$AssimpFbx$_Rotation">
+                                      <matrix>0.999006 -0.0445603 -0.00147631 0 0.0445841 0.998267 0.0383998 0 -0.000237356 -0.0384275 0.999261 0 0 0 0 1</matrix>
+                                      <node id="mixamorig:LeftArm" name="mixamorig:LeftArm">
+                                        <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                        <node id="mixamorig:LeftForeArm_$AssimpFbx$_Translation" name="mixamorig:LeftForeArm_$AssimpFbx$_Translation">
+                                          <matrix>1 0 0 0 0 1 0 27.3097 0 0 1 0 0 0 0 1</matrix>
+                                          <node id="mixamorig:LeftForeArm_$AssimpFbx$_PreRotation" name="mixamorig:LeftForeArm_$AssimpFbx$_PreRotation">
+                                            <matrix>0.994649 -0.103261 -0.00313199 0 0.103308 0.994192 0.0301547 0 0 -0.030317 0.99954 0 0 0 0 1</matrix>
+                                            <node id="mixamorig:LeftForeArm_$AssimpFbx$_Rotation" name="mixamorig:LeftForeArm_$AssimpFbx$_Rotation">
+                                              <matrix>0.994648 0.103308 -0.00156215 0 -0.103308 0.994192 -0.0301547 0 -0.00156215 0.0301547 0.999544 0 0 0 0 1</matrix>
+                                              <node id="mixamorig:LeftForeArm" name="mixamorig:LeftForeArm">
+                                                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                                <node id="mixamorig:LeftHand" name="mixamorig:LeftHand">
+                                                  <matrix>1 0 0 0 0 1 0 27.5217 0 0 1 0 0 0 0 1</matrix>
+                                                </node>
+                                              </node>
+                                            </node>
+                                          </node>
+                                        </node>
+                                      </node>
+                                    </node>
+                                  </node>
+                                </node>
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                        <node id="mixamorig:RightShoulder_$AssimpFbx$_Translation" name="mixamorig:RightShoulder_$AssimpFbx$_Translation">
+                          <matrix>1 0 0 -6.0852 0 1 0 8.8972 0 0 1 1.7952 0 0 0 1</matrix>
+                          <node id="mixamorig:RightShoulder_$AssimpFbx$_PreRotation" name="mixamorig:RightShoulder_$AssimpFbx$_PreRotation">
+                            <matrix>-0.191841 -0.979179 0.0663689 0 -0.318515 -0.00184637 -0.947916 0 0.928302 -0.202988 -0.311529 0 0 0 0 1</matrix>
+                            <node id="mixamorig:RightShoulder_$AssimpFbx$_Rotation" name="mixamorig:RightShoulder_$AssimpFbx$_Rotation">
+                              <matrix>0.999999 -0.00118252 0.00121783 0 0.0011754 0.999982 0.00582627 0 -0.0012247 -0.00582483 0.999982 0 0 0 0 1</matrix>
+                              <node id="mixamorig:RightShoulder" name="mixamorig:RightShoulder">
+                                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                <node id="mixamorig:RightArm_$AssimpFbx$_Translation" name="mixamorig:RightArm_$AssimpFbx$_Translation">
+                                  <matrix>1 0 0 -0 0 1 0 12.8789 0 0 1 0 0 0 0 1</matrix>
+                                  <node id="mixamorig:RightArm_$AssimpFbx$_PreRotation" name="mixamorig:RightArm_$AssimpFbx$_PreRotation">
+                                    <matrix>0.988764 0.149449 0.003285 0 -0.149485 0.988525 0.0217285 0 0 -0.0219754 0.999758 0 0 0 0 1</matrix>
+                                    <node id="mixamorig:RightArm_$AssimpFbx$_Rotation" name="mixamorig:RightArm_$AssimpFbx$_Rotation">
+                                      <matrix>0.999008 0.0445119 0.00147821 0 -0.0445358 0.998267 0.0384705 0 0.000236749 -0.0384981 0.999259 0 0 0 0 1</matrix>
+                                      <node id="mixamorig:RightArm" name="mixamorig:RightArm">
+                                        <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                        <node id="mixamorig:RightForeArm_$AssimpFbx$_Translation" name="mixamorig:RightForeArm_$AssimpFbx$_Translation">
+                                          <matrix>1 0 0 0 0 1 0 27.3126 0 0 1 0 0 0 0 1</matrix>
+                                          <node id="mixamorig:RightForeArm_$AssimpFbx$_PreRotation" name="mixamorig:RightForeArm_$AssimpFbx$_PreRotation">
+                                            <matrix>0.994651 0.103243 0.00313398 0 -0.103291 0.994193 0.0301791 0 0 -0.0303414 0.99954 0 0 0 0 1</matrix>
+                                            <node id="mixamorig:RightForeArm_$AssimpFbx$_Rotation" name="mixamorig:RightForeArm_$AssimpFbx$_Rotation">
+                                              <matrix>0.99465 -0.103291 0.00156315 0 0.103291 0.994193 -0.0301791 0 0.00156315 0.0301791 0.999543 0 0 0 0 1</matrix>
+                                              <node id="mixamorig:RightForeArm" name="mixamorig:RightForeArm">
+                                                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                                <node id="mixamorig:RightHand" name="mixamorig:RightHand">
+                                                  <matrix>1 0 0 0 0 1 0 27.5217 0 0 1 0 0 0 0 1</matrix>
+                                                </node>
+                                              </node>
+                                            </node>
+                                          </node>
+                                        </node>
+                                      </node>
+                                    </node>
+                                  </node>
+                                </node>
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node id="mixamorig:RightUpLeg_$AssimpFbx$_Translation" name="mixamorig:RightUpLeg_$AssimpFbx$_Translation">
+          <matrix>1 0 0 -9.0939 0 1 0 -6.6117 0 0 1 -0.0552 0 0 0 1</matrix>
+          <node id="mixamorig:RightUpLeg_$AssimpFbx$_PreRotation" name="mixamorig:RightUpLeg_$AssimpFbx$_PreRotation">
+            <matrix>-1 -5.39106e-06 -2.35549e-07 0 5.3962e-06 -0.999047 -0.0436508 0 0 -0.0436508 0.999047 0 0 0 0 1</matrix>
+            <node id="mixamorig:RightUpLeg_$AssimpFbx$_Rotation" name="mixamorig:RightUpLeg_$AssimpFbx$_Rotation">
+              <matrix>0.999982 0.00604477 0.00026411 0 -0.00604476 0.999982 -7.9825e-07 0 -0.00026411 -7.9825e-07 1 0 0 0 0 1</matrix>
+              <node id="mixamorig:RightUpLeg" name="mixamorig:RightUpLeg">
+                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                <node id="mixamorig:RightLeg_$AssimpFbx$_Translation" name="mixamorig:RightLeg_$AssimpFbx$_Translation">
+                  <matrix>1 0 0 -0 0 1 0 40.327 0 0 1 0 0 0 0 1</matrix>
+                  <node id="mixamorig:RightLeg_$AssimpFbx$_PreRotation" name="mixamorig:RightLeg_$AssimpFbx$_PreRotation">
+                    <matrix>0.999929 -0.0118706 -0.000431002 0 0.0118784 0.999271 0.0362819 0 0 -0.0362844 0.999341 0 0 0 0 1</matrix>
+                    <node id="mixamorig:RightLeg_$AssimpFbx$_Rotation" name="mixamorig:RightLeg_$AssimpFbx$_Rotation">
+                      <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                      <node id="mixamorig:RightLeg" name="mixamorig:RightLeg">
+                        <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                        <node id="mixamorig:RightFoot_$AssimpFbx$_Translation" name="mixamorig:RightFoot_$AssimpFbx$_Translation">
+                          <matrix>1 0 0 0 0 1 0 41.8172 0 0 1 0 0 0 0 1</matrix>
+                          <node id="mixamorig:RightFoot_$AssimpFbx$_PreRotation" name="mixamorig:RightFoot_$AssimpFbx$_PreRotation">
+                            <matrix>0.999334 0.0299062 0.0209295 0 0 0.573373 -0.819294 0 -0.0365024 0.818748 0.572991 0 0 0 0 1</matrix>
+                            <node id="mixamorig:RightFoot_$AssimpFbx$_Rotation" name="mixamorig:RightFoot_$AssimpFbx$_Rotation">
+                              <matrix>0.999982 -0.0038522 0.00466043 0 0.00385116 0.999993 0.000232265 0 -0.00466129 -0.000214313 0.999989 0 0 0 0 1</matrix>
+                              <node id="mixamorig:RightFoot" name="mixamorig:RightFoot">
+                                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                <node id="mixamorig:RightToeBase_$AssimpFbx$_Translation" name="mixamorig:RightToeBase_$AssimpFbx$_Translation">
+                                  <matrix>1 0 0 0 0 1 0 16.3542 0 0 1 0 0 0 0 1</matrix>
+                                  <node id="mixamorig:RightToeBase_$AssimpFbx$_PreRotation" name="mixamorig:RightToeBase_$AssimpFbx$_PreRotation">
+                                    <matrix>0.998324 -0.0369059 -0.0445845 0 0 0.770323 -0.637654 0 0.0578777 0.636585 0.769032 0 0 0 0 1</matrix>
+                                    <node id="mixamorig:RightToeBase_$AssimpFbx$_Rotation" name="mixamorig:RightToeBase_$AssimpFbx$_Rotation">
+                                      <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                      <node id="mixamorig:RightToeBase" name="mixamorig:RightToeBase">
+                                        <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                        <node id="mixamorig:RightToe_End" name="mixamorig:RightToe_End">
+                                          <matrix>1 0 0 0 0 1 0 9.9588 0 0 1 0 0 0 0 1</matrix>
+                                        </node>
+                                      </node>
+                                    </node>
+                                  </node>
+                                </node>
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node id="mixamorig:LeftUpLeg_$AssimpFbx$_Translation" name="mixamorig:LeftUpLeg_$AssimpFbx$_Translation">
+          <matrix>1 0 0 9.0943 0 1 0 -6.6116 0 0 1 -0.0552 0 0 0 1</matrix>
+          <node id="mixamorig:LeftUpLeg_$AssimpFbx$_PreRotation" name="mixamorig:LeftUpLeg_$AssimpFbx$_PreRotation">
+            <matrix>-1 0.000141703 -7.96133e-07 0 -0.000141533 -0.999047 -0.0436543 0 -6.98132e-06 -0.0436543 0.999047 0 0 0 0 1</matrix>
+            <node id="mixamorig:LeftUpLeg_$AssimpFbx$_Rotation" name="mixamorig:LeftUpLeg_$AssimpFbx$_Rotation">
+              <matrix>0.999982 -0.00593149 -0.000259182 0 0.00593149 0.999982 -7.27225e-07 0 0.000259182 -8.10124e-07 1 0 0 0 0 1</matrix>
+              <node id="mixamorig:LeftUpLeg" name="mixamorig:LeftUpLeg">
+                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                <node id="mixamorig:LeftLeg_$AssimpFbx$_Translation" name="mixamorig:LeftLeg_$AssimpFbx$_Translation">
+                  <matrix>1 0 0 0 0 1 0 40.3263 0 0 1 0 0 0 0 1</matrix>
+                  <node id="mixamorig:LeftLeg_$AssimpFbx$_PreRotation" name="mixamorig:LeftLeg_$AssimpFbx$_PreRotation">
+                    <matrix>0.999929 0.011916 0.000432586 0 -0.0119238 0.999271 0.0362766 0 0 -0.0362792 0.999342 0 0 0 0 1</matrix>
+                    <node id="mixamorig:LeftLeg_$AssimpFbx$_Rotation" name="mixamorig:LeftLeg_$AssimpFbx$_Rotation">
+                      <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                      <node id="mixamorig:LeftLeg" name="mixamorig:LeftLeg">
+                        <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                        <node id="mixamorig:LeftFoot_$AssimpFbx$_Translation" name="mixamorig:LeftFoot_$AssimpFbx$_Translation">
+                          <matrix>1 0 0 0 0 1 0 41.8172 0 0 1 0 0 0 0 1</matrix>
+                          <node id="mixamorig:LeftFoot_$AssimpFbx$_PreRotation" name="mixamorig:LeftFoot_$AssimpFbx$_PreRotation">
+                            <matrix>0.999333 -0.0299248 -0.0209425 0 0 0.573373 -0.819294 0 0.0365251 0.818747 0.572991 0 0 0 0 1</matrix>
+                            <node id="mixamorig:LeftFoot_$AssimpFbx$_Rotation" name="mixamorig:LeftFoot_$AssimpFbx$_Rotation">
+                              <matrix>0.999982 0.00378 -0.00457311 0 -0.003779 0.999993 0.000227852 0 0.00457394 -0.000210566 0.99999 0 0 0 0 1</matrix>
+                              <node id="mixamorig:LeftFoot" name="mixamorig:LeftFoot">
+                                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                <node id="mixamorig:LeftToeBase_$AssimpFbx$_Translation" name="mixamorig:LeftToeBase_$AssimpFbx$_Translation">
+                                  <matrix>1 0 0 0 0 1 0 16.3542 0 0 1 0 0 0 0 1</matrix>
+                                  <node id="mixamorig:LeftToeBase_$AssimpFbx$_PreRotation" name="mixamorig:LeftToeBase_$AssimpFbx$_PreRotation">
+                                    <matrix>0.998324 0.036907 0.0445859 0 0 0.770324 -0.637653 0 -0.0578794 0.636584 0.769033 0 0 0 0 1</matrix>
+                                    <node id="mixamorig:LeftToeBase_$AssimpFbx$_Rotation" name="mixamorig:LeftToeBase_$AssimpFbx$_Rotation">
+                                      <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                      <node id="mixamorig:LeftToeBase" name="mixamorig:LeftToeBase">
+                                        <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                                        <node id="mixamorig:LeftToe_End" name="mixamorig:LeftToe_End">
+                                          <matrix>1 0 0 0 0 1 0 9.9588 0 0 1 0 0 0 0 1</matrix>
+                                        </node>
+                                      </node>
+                                    </node>
+                                  </node>
+                                </node>
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#RootNode" />
+  </scene>
+</COLLADA>
